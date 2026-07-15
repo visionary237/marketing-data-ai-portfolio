@@ -55,6 +55,4 @@ Automatisation complète avec n8n.
 
 ---
 
-## 🎯 Objectif 2026
 
-Devenir Marketing Data & AI Automation Specialist.
